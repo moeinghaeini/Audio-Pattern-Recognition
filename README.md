@@ -18,3 +18,5 @@ This project explores the application of audio signal processing and machine lea
 - **Signal Processing** fundamentals
 - **Supervised Learning** for audio classification
 - **Spectrogram Analysis**
+
+## Link to dataset : https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
